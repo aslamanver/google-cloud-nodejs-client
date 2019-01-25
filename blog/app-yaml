@@ -1,0 +1,12 @@
+runtime: nodejs10
+# api_version: 1
+# threadsafe: true
+
+# handlers:
+
+# - url: /
+#   static_files: dist/blog/index.html
+#   upload: dist/blog/index.html
+
+# - url: /
+#   static_dir: dist/blog
